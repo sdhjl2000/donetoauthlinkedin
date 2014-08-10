@@ -1,0 +1,45 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "LinkedInAuth", "LinkedInAuth\", "{DA8C0C65-4792-4640-9665-2CD33E5128B5}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		ProjectReferences = "{149D8964-B86F-42A8-B0E2-72813C6F179A}|Model.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/LinkedInAuth"
+		Debug.AspNetCompiler.PhysicalPath = "LinkedInAuth\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\LinkedInAuth\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/LinkedInAuth"
+		Release.AspNetCompiler.PhysicalPath = "LinkedInAuth\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\LinkedInAuth\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "7583"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{149D8964-B86F-42A8-B0E2-72813C6F179A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA8C0C65-4792-4640-9665-2CD33E5128B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8C0C65-4792-4640-9665-2CD33E5128B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA8C0C65-4792-4640-9665-2CD33E5128B5}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA8C0C65-4792-4640-9665-2CD33E5128B5}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{149D8964-B86F-42A8-B0E2-72813C6F179A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{149D8964-B86F-42A8-B0E2-72813C6F179A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{149D8964-B86F-42A8-B0E2-72813C6F179A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{149D8964-B86F-42A8-B0E2-72813C6F179A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

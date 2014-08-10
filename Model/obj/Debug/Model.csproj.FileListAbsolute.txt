@@ -1,0 +1,11 @@
+C:\Users\sdhjl2000\Documents\Visual Studio 2012\Projects\LinkedInAuth\Model\bin\Debug\Model.dll.config
+C:\Users\sdhjl2000\Documents\Visual Studio 2012\Projects\LinkedInAuth\Model\bin\Debug\Model.dll
+C:\Users\sdhjl2000\Documents\Visual Studio 2012\Projects\LinkedInAuth\Model\bin\Debug\Model.pdb
+C:\Users\sdhjl2000\Documents\Visual Studio 2012\Projects\LinkedInAuth\Model\obj\Debug\Model.dll
+C:\Users\sdhjl2000\Documents\Visual Studio 2012\Projects\LinkedInAuth\Model\obj\Debug\Model.pdb
+E:\LinkinAuth\Model\bin\Debug\Model.dll.config
+E:\LinkinAuth\Model\bin\Debug\Model.dll
+E:\LinkinAuth\Model\bin\Debug\Model.pdb
+E:\LinkinAuth\Model\obj\Debug\ResolveAssemblyReference.cache
+E:\LinkinAuth\Model\obj\Debug\Model.dll
+E:\LinkinAuth\Model\obj\Debug\Model.pdb
